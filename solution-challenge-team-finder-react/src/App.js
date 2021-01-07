@@ -35,10 +35,10 @@ const App = () => {
             <div className={"Title"}>
                 <h2><a href={"https://events.withgoogle.com/dsc-solution-challenge/"}>Solution Challenge</a> Team Finder</h2>
             </div>
-            <Paper className={"TeamFinderInstructionsContainer"}>
+            <Paper className={"TeamFinderInstructionsContainer"} elevation={10}>
                 <TeamFinderInstructions />
             </Paper>
-            <Paper className={"TeamFinderContainer"}>
+            <Paper className={"TeamFinderContainer"} elevation={10}>
                 <TeamFinder
                     showDialog={showDialog}
                     dataAgent={new FirebaseDataAgent()}

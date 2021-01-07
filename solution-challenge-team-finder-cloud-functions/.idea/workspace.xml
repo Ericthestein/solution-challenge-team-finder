@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8980406d-e74a-4625-906a-b7fd51da8427" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution-challenge-team-finder-react/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../solution-challenge-team-finder-react/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution-challenge-team-finder-react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../solution-challenge-team-finder-react/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../solution-challenge-team-finder-react/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
       <workItem from="1609980285841" duration="6108000" />
       <workItem from="1609994232640" duration="80000" />
       <workItem from="1610005770648" duration="97000" />
-      <workItem from="1610009437333" duration="2850000" />
+      <workItem from="1610009437333" duration="3334000" />
     </task>
     <servers />
   </component>
