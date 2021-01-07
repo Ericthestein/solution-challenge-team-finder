@@ -1,0 +1,14 @@
+.TeamFinderForm {
+    padding: 5%;
+    height: 40vh;
+}
+
+.TeamFinderFormGroup {
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.TeamFinderFormControl {
+
+}
