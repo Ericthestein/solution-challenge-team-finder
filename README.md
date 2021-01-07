@@ -1,6 +1,6 @@
 # Solution Challenge Team Finder
 
-This Web App allows students in [Google Developer Student Clubs](https://developers.google.com/community/dsc) to join a random [Solution Challenge](https://events.withgoogle.com/dsc-solution-challenge/) team with students from their university.
+This [Web App](https://solution-challenge-team-finder.web.app/) allows students in [Google Developer Student Clubs](https://developers.google.com/community/dsc) to join a random [Solution Challenge](https://events.withgoogle.com/dsc-solution-challenge/) team with students from their university.
 
 ## [React](https://reactjs.org/)
 
